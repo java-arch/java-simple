@@ -74,7 +74,9 @@ public class Main {
 		
 		System.out.println("Получилось сумма чисел " + n_1 + " и " + n_2 + " : " + n_r);
 		*/
-		System.out.print(array[1][1]);
+		System.out.println(array[1][1]);
+		
+		System.out.println("Hello world!");
 		
 	}
 
